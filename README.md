@@ -80,7 +80,7 @@ Before we can push the Docker image to AWS ECR, we need to authenticate ourselve
 - Ensure you have the necessary AWS CLI installed and configured on your local machine. You can refer to the AWS CLI documentation for instructions on installation and configuration.
   ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688292803069/361a02a0-eb06-46e3-be5f-b89af0bcd3bf.png)
 - Create a Repo in ECR
-  ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688293757731/1ee27f08-c91c-4dbc-a246-e88aed9eda53.png)
+  ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688312314603/c9c28a21-3188-485a-834f-510b2d61d51d.png)
   ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1688294403557/1650bb8b-2a12-458b-ac23-d946bc9fa328.png)
 - Open a terminal or command prompt and authenticate your Docker client with the ECR registry by running the following command:
   ```bash
